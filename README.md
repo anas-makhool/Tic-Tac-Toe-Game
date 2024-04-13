@@ -21,7 +21,7 @@ This is a simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScrip
 * Winning detection: The game detects winning combinations and declares the winner.
 * Draw detection: If all boxes are filled and no winner is detected, the game is declared a draw.
 * Reset button: Players can reset the game at any time to start a new round.
-* 
+  
 ### Customize
 You can customize the game's appearance and behavior by modifying the CSS and JavaScript files. Feel free to tweak the styles, change the game logic, or add new features according to your preferences.
 
