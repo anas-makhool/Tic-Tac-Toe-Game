@@ -37,6 +37,7 @@ arrayOfBoxes.forEach((ele) => {
     if (check || theLine.className !== "") {
       if (theLine.className === "") {
         title.innerText = "The Result Is A Draw";
+        restartTheGame();
       } else {
         restartTheGame();
         title.innerText = `Congratulation ${
