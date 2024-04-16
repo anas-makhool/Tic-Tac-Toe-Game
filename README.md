@@ -30,3 +30,6 @@ This Tic Tac Toe game is created by [anas-mkhool](https://github.com/anas-makhoo
 
 ## License 
 [MIT Liscense](LICENSE)
+
+
+## You can browse it from - [here](https://tic-tac-toe-a1946c.netlify.app)
